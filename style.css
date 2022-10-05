@@ -140,6 +140,7 @@ cursor: pointer;
   .product__img{
     background-image: url("images/image-product-mobile.jpg");
     height: 30vh;
+    min-width: 336px;
     border-radius: 10px 10px 0 0;
   }
 
