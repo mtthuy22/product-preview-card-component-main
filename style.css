@@ -129,6 +129,7 @@ cursor: pointer;
 
   main{
     width: 90vw;
+    min-width: 355px;
   }
 
   .product__container{
