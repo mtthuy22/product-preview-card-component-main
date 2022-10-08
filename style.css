@@ -126,7 +126,7 @@ cursor: pointer;
 }
 
 
-@media (max-width: 1440px){
+@media only screen and (max-width: 980px){
 
   main{
     width: 90vw;
